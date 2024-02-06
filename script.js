@@ -101,14 +101,6 @@ tl.to(".loader",{
     display:"none"
 })
 
-tl.from(".text-Page h1 span",{
-    y:100,
-    opacity:0,
-    stagger:0.1,
-    duration:0.5,
-    delay:-0.5
-})
-
 tl.from(".page5 #end  span",{
     y:100,
     opacity:0,
